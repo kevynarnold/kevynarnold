@@ -1,0 +1,9 @@
+input_dir: '/Users/kevynarnold/Documents/Coursework 2/SLU'
+output_png_dir: '/Users/kevynarnold/Documents/Coursework 2/SLU_PNG'
+output_json_dir: '/Users/kevynarnold/Documents/Coursework 2/SLU_JSON'
+cid: 'QmNrwAC7SevCf6hK9ihPLXPDVo7nuBAwBji45sySjzN7fR'
+data_size: 20  # Example: number of data dictionaries
+edition: '1'
+description: 'Saint Lucia - Let Her Inspire You'
+compiler: 'KevynArnold'
+date_format: '%Y-%m-%d'
